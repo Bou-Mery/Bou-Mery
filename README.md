@@ -9,6 +9,13 @@
 
 <h2 align="center">Software & Data Engineer | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Bou-Mery&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 ###
 
@@ -141,17 +148,6 @@
 ###
 
 <p align="left">I work with Databricks and Apache Airflow to build scalable data pipelines following the Medallion Architecture. I focus on mastering Spark and Delta Lake for efficient batch and real-time data processing.</p>
-
-###
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Bou-Mery&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 
 
 
