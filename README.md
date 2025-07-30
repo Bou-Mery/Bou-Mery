@@ -6,23 +6,9 @@
 
 <h1 align="center">Hi there, I'm Meryem Boukhrais 👋</h1>
 
-###
 
 <h2 align="center">Software & Data Engineer | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/boukhrais-meryem-053501252/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="meryemboukhrais090@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22203408/mery" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
 
 ###
 
@@ -168,6 +154,8 @@
 
 
 
+
+
 ###
 
 <div align="center">
@@ -175,3 +163,15 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/boukhrais-meryem-053501252/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"  />
+  </a>
+  <a href="meryemboukhrais090@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22203408/mery" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="stackoverflow logo"  />
+  </a>
+</div>
