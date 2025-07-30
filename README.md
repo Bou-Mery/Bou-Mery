@@ -8,9 +8,6 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Bou-Mery=DenverCoder1)](https://git.io/streak-stats)
-
-
 <h2 align="center">Software & Data Engineer | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 ###
@@ -161,33 +158,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bou-Mery&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Bou-Mery)](https://git.io/streak-stats)
 </div>
 
 ###
 
 <div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bou-Mery.Bou-Mery&"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bou-Mery/Bou-Mery/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
