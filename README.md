@@ -8,6 +8,9 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com/?Bou-Mery=DenverCoder1)](https://git.io/streak-stats)
+
+
 <h2 align="center">Software & Data Engineer | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 ###
