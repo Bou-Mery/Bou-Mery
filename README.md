@@ -1,163 +1,134 @@
+<h1 align="center">Hi, I'm Meryem BOUKHRAIS 👋</h1>
 
+<h3 align="center">
+Computer Engineer | Software Engineering • Data Engineering • AI
+</h3>
 
-###
+<p align="center">
+  Building reliable, data-driven solutions for real-world problems.
+</p>
 
-<h1 align="center">Hi there, I'm Meryem Boukhrais 👋</h1>
+---
 
+## 👩‍💻 About Me
 
-<h2 align="center">Software & Data Engineer | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
+I’m a Computer Engineer specialized in **Big Data and Emerging Technologies**, with hands-on experience across **software engineering, data engineering, and AI**.
 
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcwNDBzcnB4djF0Nm02N3g4ZHVrbWV2ZG4yeWtndG9wNXA1d2pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02YiLD8Xos2LIufycM/giphy.gif"  />
-</div>
+I enjoy turning complex requirements into practical and maintainable solutions, from backend development and data pipelines to AI-powered applications.
 
+My engineering mindset focuses on **problem solving, system design, scalability, and continuous learning**.
 
+- 🎓 Computer Engineering at ENSA El Jadida
+- 💼 Former Data Engineering Intern at OCP Group
+- 🚀 Final-year project at UM6P: Multi-Tenant IoT Platform
+- 🔎 Interested in Software Engineering, Data Engineering, and AI
+- 🌱 Currently deepening my expertise in Python, SQL, distributed data processing, and AI systems
 
+---
 
-###
+## 🧩 Core Technologies
 
-<h2 align="left">🙋‍♀️  About Me</h2>
+### Software Engineering
 
-###
-
-<p align="left">🔍 I'm an aspiring Data & Software Engineer with a strong passion for Big Data technologies, scalable data pipelines, and AI-powered solutions.<br><br>🎓 Engineering Student at ENSA El Jadida  <br>💡 Currently building real-time data platforms during my internship at OCP Group  <br>🚀 Always learning new tools in cloud, DevOps, and distributed systems</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<h3 align="left">💻 Programming Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+</p>
 
-###
+### Data Engineering
 
-<h3 align="left">🧱 Development Stack</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka" />
+</p>
 
-###
+**Focus:** ETL/ELT pipelines, batch processing, real-time data, Medallion Architecture, and scalable data workflows.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+### AI & Generative AI
 
-###
+**Python • LLMs • RAG • LangChain • Vector Search**
 
-<h3 align="left">☁️ Cloud & DevOps</h3>
+I’m particularly interested in building AI systems that can work with real-world data and provide useful, context-aware results.
 
-###
+### Databases
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</p>
 
-###
+### Cloud & DevOps
 
-<h3 align="left">📂 Databases</h3>
+**Docker • AWS • jenkis • Terraform • CI/CD • Git**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-</div>
+## 🚀 Selected Experience
 
-###
+### Smart Apiculture : Multi-Tenant IoT Platform
 
-<h3 align="left">🛠️ Other Tools</h3>
+**UM6P | Full Stack & AI Engineer | 2026**
 
-###
+A production-oriented multi-tenant IoT platform for connected beekeeping.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+- Designed and developed the platform end-to-end
+- Built REST APIs and real-time communication
+- Implemented multi-tenant architecture
+- Integrated IoT data and AI capabilities
+- Developed web and mobile interfaces
+- Worked from requirements through deployment and documentation
 
-###
+**Django REST Framework • PostgreSQL • Next.js • Flutter • WebSockets • LoRaWAN • AI**
 
-<h3 align="left">🔷 Big Data & Data Engineering Tools</h3>
+### Industrial Data Lakehouse
 
-###
+**OCP Group | Data Engineering Intern | 2025**
 
-<p align="left">I work with Databricks and Apache Airflow to build scalable data pipelines following the Medallion Architecture. I focus on mastering Spark and Delta Lake for efficient batch and real-time data processing.</p>
+Designed an industrial data pipeline following the **Medallion Architecture**.
 
+**Apache Airflow • PySpark • Delta Lake • PostgreSQL • Prometheus • Grafana**
 
+---
 
+## 📚 Projects & Research
 
+- **RAG-based Cold Mail Generator** : LLM application using semantic portfolio matching and vector search.
+- **FitnityAI** : AI-assisted fitness goal tracking application.
+- **ExcelliaBourse** : Distributed application involving Spring Boot, Kafka, and AWS.
 
-###
+📄 Co-author of research work in **AI and LLM-based systems**, including a manuscript currently under review.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/boukhrais-meryem-053501252/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"  />
+---
+
+## 🛠 Engineering Approach
+
+I believe good engineering is not about using the most technologies.
+
+It is about **understanding the problem, working within constraints, choosing the right tools, and building solutions that remain useful and maintainable.**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/boukhrais-meryem-053501252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="meryemboukhrais090@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
+  <a href="https://boukhrais-meryem.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/22203408/mery" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="stackoverflow logo"  />
+  <a href="https://github.com/Bou-Mery">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
